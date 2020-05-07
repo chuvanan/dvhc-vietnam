@@ -2,11 +2,22 @@
 
 ### Dữ liệu danh mục hành chính Việt Nam
 
-* `dvhc_data.xml`
+* `dvhc-vietnam.xml`
 
-* `dvhc_data.csv`
+* `dvhc-vietnam.csv`
 
-* `dvhc_data.json`
+* `dvhc-vietnam.json`
+
+
+### Sử dụng
+
+```bash
+curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc_data.xml -o dvhc-vietnam.xml
+# or
+curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.csv -o dvhc-vietnam.csv
+# or
+curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.json -o dvhc-vietnam.json
+```
 
 ### Nguồn
 
