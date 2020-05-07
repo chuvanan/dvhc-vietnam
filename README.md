@@ -12,7 +12,7 @@
 ### Sử dụng
 
 ```bash
-curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc_data.xml -o dvhc-vietnam.xml
+curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.xml -o dvhc-vietnam.xml
 # or
 curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.csv -o dvhc-vietnam.csv
 # or
