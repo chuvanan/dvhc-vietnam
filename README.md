@@ -11,7 +11,7 @@
 
 ### Sử dụng
 
-```sh
+```console
 curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.xml -o dvhc-vietnam.xml
 # or
 curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam.csv -o dvhc-vietnam.csv
@@ -21,7 +21,7 @@ curl https://raw.githubusercontent.com/chuvanan/dvhc-vietnam/master/dvhc-vietnam
 
 ### Chuyển đổi XML sang CSV/JSON
 
-```sh
+```console
 ./converter.r dvhc-vietnam.xml csv
 ./converter.r dvhc-vietnam.xml json
 ```
